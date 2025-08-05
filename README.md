@@ -9,7 +9,11 @@ Imagen de la interfaz de LectorAPP:
 <p align="center">
   <img src="El Lector - Interface.jpg" alt="Imagen de la interfaz de LectorAPP" width="700">
 </p>
+## 📖 Ejemplo en uso
+A continuación, se muestra cómo luce la aplicación en funcionamiento, cargando un archivo PDF con contenido textual.
+Esta vista permite al usuario visualizar el contenido del documento mientras utiliza los controles superiores para convertir a audio, leer la selección, pausar, detener la lectura o cambiar el tamaño del texto.
 
+<p align="center"> <img src="img lectorAPP 2.jpg" alt="Vista de la app en funcionamiento" width="700"> </p>
 ## 🔧 Funcionalidades
 
 - Convertir texto a audio
